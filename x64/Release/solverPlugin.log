@@ -1,0 +1,9 @@
+﻿  solverCmd.cpp
+     Creating library C:\Users\Kyle\Documents\DEV\solverPlugin\x64\Release\solverPlugin.lib and object C:\Users\Kyle\Documents\DEV\solverPlugin\x64\Release\solverPlugin.exp
+  Generating code
+  1 of 228 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  solverPlugin.vcxproj -> C:\Users\Kyle\Documents\DEV\solverPlugin\x64\Release\solverPlugin.mll
+  solverPlugin.vcxproj -> C:\Users\Kyle\Documents\DEV\solverPlugin\x64\Release\solverPlugin.pdb (Full PDB)
